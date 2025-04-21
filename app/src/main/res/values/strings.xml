@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaExplorer</string>
+    <string name ="Button1">Form</string>
+    <string name ="Button2">Back</string>
+    <string name ="SelectGen">Selecciona un Genero</string>
+    <string name ="NombrePeli">Nombre de la pelicula</string>
+    <string name ="Duracion">Duracion (Minutos)</string>
+    <string name ="AgregarPeli">Agregar Pelicula</string>
+    <string name ="Durac">Duracion: %s Minutos</string>
+    <string name ="Descripcion">Descripcion o reseña de la pelicula</string>
+    <string name ="RellenarTodosCampos">Por favor, rellene todos los campos</string>
+</resources>
